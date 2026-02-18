@@ -1,0 +1,11 @@
+EncounterID,PatientID,ProviderID,EncounterDate,EncounterType,DiagnosisCodes,Notes,FacilityID
+E5001,10001,DR200,2024-01-10,Annual Assessment,"I10;E11.65;M81.0","Annual comprehensive assessment. Patient stable on current medications.",FAC01
+E5002,10001,DR201,2024-03-15,Follow-up,I10,"Blood pressure follow-up. BP 138/82. Adjusted medication.",FAC01
+E5003,10002,DR200,2024-02-20,Annual Assessment,"M17.11;I25.10","Annual assessment. Knee pain worsening, discussed PT referral.",FAC01
+E5004,10002,DR201,2024-04-01,Follow---up,M17.11,"PT evaluation follow-up. Patient reports improvement.",FAC01
+E5005,10003,DR200,2024-01-05,Follow---up,Z00.00,Test encounter - please ignore.,FAC01
+E5006,10004,DR202,2024-01-22,Annual Assessment,"I48.91;E78.5;J44.1","Annual assessment. COPD stable. Lipids improving.",FAC01
+E5007,10005,DR203,2023-11-30,Follow-up,"G30.9;F02.80","Dementia care follow-up. Discussed goals of care with family.",FAC02
+E5008,10006,DR203,2024-03-10,Annual Assessment,I10;E11.9,Annual assessment. Diabetes well-controlled. A1C 6.8.,FAC02
+E5009,10007,DR202,02/28/2024,Annual Assessment,"F32.1;M54.5","Annual assessment. Depression screening positive. Started sertraline.",FAC02
+E5010,10008,DR200,20240315,Follow-up,"M79.3;E11.65","Panniculitis follow-up. Diabetes management review.",FAC01

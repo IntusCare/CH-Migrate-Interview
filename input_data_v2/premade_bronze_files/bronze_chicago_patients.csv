@@ -1,0 +1,6 @@
+patient_id,first_name,last_name,birth_date,gender,enrollment_status,phone_number,loaded_at
+20001,Linda,Foster,03/15/1944,Female,Enrolled,3125557001,2024-01-16 09:00:00
+20002,Raymond,Brooks,1956-08-22,Male,Enrolled,3125557101,2024-01-16 09:00:00
+20003,QA,PATIENT,01/01/1990,Male,Enrolled,3125557201,2024-01-16 09:00:00
+20004,Betty,Yamamoto,1850-06-30,Female,Disenrolled,3125557301,2024-01-16 09:00:00
+20005,Carlos,Rodriguez,-150,Male,Enrolled,3125557401,2024-01-16 09:00:00
