@@ -1,6 +1,6 @@
 # CareHub Data Engineering Technical Assessment
 
-**Time:** 55-70 minutes
+**Time:** ~1 Hour
 **Tools:** Use whatever you'd normally use -- your IDE, AI assistants, documentation, Google, anything you might normally use.
 
 ## Background
@@ -46,7 +46,7 @@ Take 2-3 minutes to **explore the `input_data_v2/` folder**. Look at the files, 
 
 ---
 
-## Part 1: Architecture Design (15-20 min)
+## Part 1: Architecture Design (10-20 min)
 
 Design the bronze and silver layers for our medallion architecture. These decisions are interconnected - your bronze choices will influence what makes sense for silver.
 
@@ -201,7 +201,7 @@ Build a transformation pipeline that can be used to populate silver tables:
 
 ---
 
-## Part 3: Discussion (10-15 min)
+## Part 3: Discussion (10 min)
 
 We'll discuss these scenarios:
 
