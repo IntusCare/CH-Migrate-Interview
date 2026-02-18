@@ -1,7 +1,7 @@
 # CareHub Data Engineering Technical Assessment
 
 **Time:** 55-70 minutes
-**Tools:** Use whatever you'd normally use -- your IDE, AI assistants, documentation, Google, all of it.
+**Tools:** Use whatever you'd normally use -- your IDE, AI assistants, documentation, Google, anything you might normally use.
 
 ## Background
 
