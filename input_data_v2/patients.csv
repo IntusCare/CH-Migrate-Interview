@@ -1,0 +1,9 @@
+PatientID,FirstName,LastName,DateOfBirth,Sex,ProgramStatus,Phone
+10001,Maria,Gonzalez,1948-03-15,F,Active,2175550101
+10002,Robert,Chen,1955-07-22,M,Active,2175550201
+10003,TEST,TEST,2000-01-01,M,Active,5555555555
+10004,Patricia,Williams,1024-11-30,F,Active,2175550301
+10005,James,Anderson,2030-06-15,M,Active,2175550401
+10006,Linda,Martinez,1952-02-28,F,Inactive,2175550501
+10007,Michael,Thompson,1947-09-10,M,Active,
+10008,NULL,Davis,1959-12-05,F,Active,2175550701

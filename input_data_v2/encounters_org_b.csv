@@ -1,0 +1,9 @@
+encounter_id,patient_id,provider_id,visit_date,visit_type,diagnosis_codes,clinical_notes,location_id
+E6001,20001,P401,01/15/2024,Annual Assessment,"I10;E11.65;M81.0","Annual comprehensive assessment. Patient managing well.",LOC01
+E6002,20001,P401,03/20/2024,Follow---up,I10,"Blood pressure check. BP 135/80. Continue current regimen.",LOC01
+E6003,20002,P402,20240118,Annual Assessment,"M17.11;I25.10","Annual assessment. Knee arthritis and coronary disease stable.",LOC01
+E6004,20002,P402,04/10/2024,Follow---up,M17.11,"Orthopedic follow-up. Patient tolerating PT well.",LOC01
+E6005,20003,P401,01/10/2024,Follow-up,Z00.00,Test encounter for QA purposes - ignore.,LOC01
+E6006,20004,P403,20240125,Annual Assessment,"I48.91;E78.5","Annual assessment. Atrial fibrillation rate-controlled. Lipids improved.",LOC02
+E6007,20004,P403,02/28/2024,Follow-up,"I48.91","Final visit before disenrollment. Patient moving to skilled nursing.",LOC02
+E6008,20005,P401,2024/05/15,Follow-up,M17.11,"Pain management review.",LOC01
